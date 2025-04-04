@@ -1,7 +1,7 @@
 #!/bin/bash
 # Convert nm to Angstrom in XVG file
 # Usage: ./convert_nm_to_a.sh input.xvg output.xvg
-
+#hello
 input=$1
 output=$2
 
